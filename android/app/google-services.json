@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071789122362",
+    "project_id": "clubhouse-e277e",
+    "storage_bucket": "clubhouse-e277e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071789122362:android:b41ae79e229eb55e6de603",
+        "android_client_info": {
+          "package_name": "com.example.clubhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071789122362-rfuc7u4gga2ic1drl4sccq1pi6i1ehtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clubhouse",
+            "certificate_hash": "c9334c507d642cdf1335a3b6fbf7f25d89f8476f"
+          }
+        },
+        {
+          "client_id": "1071789122362-pra00tp5qbtqho2eu1sjecaumjj5t5aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLKLmcmWVTCF1_Gl1PcGf_tSaAzBbuaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071789122362-d93pqtnploeot1d9ul7mrijmg9j75iq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071789122362-6fgls5slom6tmbr8otsgnq0033jl4ehm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clubhouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
