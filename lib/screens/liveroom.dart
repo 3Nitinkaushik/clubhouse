@@ -22,6 +22,7 @@ class LivePage extends StatelessWidget {
         child: Scaffold(
 appBar: AppBar(title: Center(child: Text("Room id:$roomID")),),
           body: ZegoUIKitPrebuiltLiveAudioRoom(
+
             appID: 1030592619, // Fill in the appID that you get from ZEGOCLOUD Admin Console.
             appSign: 'ya2d03f8837661573f787f715a25dc4c0f6ab8cd89da28a4eb13ab77368173d47', // Fill in the appSign that you get from ZEGOCLOUD Admin Console.
             userID: FirebaseAuth.instance.currentUser!.uid,
@@ -29,7 +30,10 @@ appBar: AppBar(title: Center(child: Text("Room id:$roomID")),),
             roomID: roomID,
             config: isHost
                 ? ZegoUIKitPrebuiltLiveAudioRoomConfig.host()
-                : ZegoUIKitPrebuiltLiveAudioRoomConfig.audience(),
+                : ZegoUIKitPrebuiltLiveAudioRoomConfig.audience()..onLeaveConfirmation=(BuildContext context){
+              Navigator.pushNamedAndRemoveUntil(context, roomview.id, (route) => false);
+              return Future(() => false);
+            },
           )
         ),
       ),
