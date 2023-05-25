@@ -2,6 +2,8 @@
 
 A clone of clubhouse.
 
+Direct download link: https://docs.google.com/uc?export=download&id=1G-KYWoAT730T2RCBXD1X0ysh3a0y-O1-
+
 ![d1819d33-3aad-4971-8e35-edfbb50ab6dd](https://user-images.githubusercontent.com/100613967/233043224-1a781701-1bc2-4c50-a744-4afb728208c4.jpg)
 
 ![2ca00a70-6636-4fd3-8ca1-d792f218f216](https://user-images.githubusercontent.com/100613967/233043249-ff9dbc22-1cc9-41ad-a170-1fab11c6f799.jpg)
