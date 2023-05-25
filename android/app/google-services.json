@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "1071789122362-rfuc7u4gga2ic1drl4sccq1pi6i1ehtg.apps.googleusercontent.com",
+          "client_id": "1071789122362-512qg72mb983q4glgm9c0nrqopmdvcud.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.clubhouse",
-            "certificate_hash": "c9334c507d642cdf1335a3b6fbf7f25d89f8476f"
+            "certificate_hash": "69129a4946a4256528b15329fef198ec4f41fa3d"
           }
         },
         {
