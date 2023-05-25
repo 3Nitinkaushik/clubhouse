@@ -12,4 +12,5 @@ A clone of clubhouse.
 
 ![c088bb89-8410-4f1d-8c4c-aee49f350022](https://user-images.githubusercontent.com/100613967/233043380-57b94079-a36a-4ddf-869c-71d2182d328c.jpg)
 
-![1aea0f3b-9069-4c2f-97e0-3d4545fa7cdb](https://user-images.githubusercontent.com/100613967/233043410-19348ee3-5b80-4bdc-a208-bd1abf022be3.jpg)
+![e9648aa7-77e8-4008-ad9c-d253c82222a3](https://github.com/3Nitinkaushik/clubhouse/assets/100613967/0e0ef4a8-811b-4e52-b51f-79aa34c63d1d)
+
